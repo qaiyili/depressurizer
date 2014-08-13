@@ -1,5 +1,7 @@
 #summary Main download page
 
+==WARNING: Depressurizer has not yet been updated for multiple categories. Do not try to use it if you have set multiple categories for your games.==
+
 == Latest version: 0.4.5.1 (May 1, 2014) ==
 
 ===Download Links:===
